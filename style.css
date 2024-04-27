@@ -1,0 +1,44 @@
+header {
+    background-color: #29273a;
+}
+h1 {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    font-style: normal;
+    color: yellowgreen;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+span {
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 100px;
+    background-color: aqua;
+    border-radius: 5%;
+    padding: 10px;
+    font-family: "Madimi One", sans-serif;
+}
+
+span:hover{
+    cursor: pointer;
+}
+
+
+
+#container .row .box{
+    background-color: red;
+}
