@@ -1,2 +1,2 @@
 # etch-a-sketch
-A project that uses different 
+A sketch app that uses mouse hover event to draw on a canvas 
